@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @jo-oseeph<br>👀 I’m interested in ...coding<br>🌱 I’m currently learning ...Programing for web development<br>💞️ I’m looking to collaborate on ...web development fields<br>📫 How to reach me ... email: contactme.sejjo@gmail.com<br>😄 Pronouns: ...<br>⚡ Fun fact: ...I'm a passionate developer
+👋 Hello I’m Joseph Situma<br>👀 I'm a passionate self taught developer<br>🌱 I’m currently learning ...Programing for web development<br>💞️ I’m looking to collaborate on ...web development fields<br>📫 How to reach me ... email: contactme.sejjo@gmail.com<br>😄 Pronouns: ...<br>⚡ Fun fact: ...I'm a passionate developer
 
 
 ## 🌐 Socials:
