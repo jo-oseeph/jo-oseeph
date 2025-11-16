@@ -1,6 +1,6 @@
  ## About Me:
   
- I'm **Joseph Situma**, known as **Sejjo** – a self-taught, passionate full-stack developer from Kenya.  
+ I'm **Joseph Situma**, a self-taught, passionate full-stack developer from Kenya.  
  I specialize in building fast, responsive, and user-centered web apps using the **MERN Stack**.  
  I also have strong skills in **UI/UX design**, bringing beauty and functionality together.
 
