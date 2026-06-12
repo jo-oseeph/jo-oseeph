@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Fullstack developer building scalable MERN applications with a focus on performance, usability, and real business impact.<br><br>I specialize in creating responsive frontends and reliable backend systems that solve practical problems. I use Node.js and Express to design backend architecture, MongoDB and Supabase for data storage and management, and React with Tailwind CSS to create responsive, user-focused interfaces.<br><br>
+Full-Stack Developer specializing in MERN and React Native. <br><br> I build scalable web and mobile applications with a focus on performance, usability, and real business impact. Experienced in Node.js, Express, MongoDB, Supabase, React, React Native, and Tailwind CSS, developing end-to-end solutions that are reliable, maintainable, and user-focused. <br><br>
 
 
 ## 🌐 Socials:
