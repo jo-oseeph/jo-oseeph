@@ -1,5 +1,7 @@
 # 💫 About Me:
-Full-Stack Developer specializing in MERN and React Native. <br><br> I build scalable web and mobile applications with a focus on performance, usability, and real business impact. Experienced in Node.js, Express, MongoDB, Supabase, React, React Native, and Tailwind CSS, developing end-to-end solutions that are reliable, maintainable, and user-focused. <br><br>
+I'm a MERN Stack and Mobile App Developer specializing in building scalable web and mobile applications that prioritize performance, usability, and real business impact.
+I develop end-to-end solutions, from intuitive user interfaces to secure and efficient backend systems. My work involves building RESTful APIs and backend architecture with Node.js and Express, managing data with MongoDB, and creating responsive, user-focused interfaces using React, React Native, Tailwind CSS, and CSS3.
+Passionate about solving real-world problems, I turn ideas into reliable, scalable, and maintainable digital products designed for long-term growth and success. <br><br>
 
 
 ## 🌐 Socials:
