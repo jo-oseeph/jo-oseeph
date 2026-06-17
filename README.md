@@ -4,8 +4,6 @@ I develop end-to-end solutions, from intuitive user interfaces to secure and eff
 Passionate about solving real-world problems, I turn ideas into reliable, scalable, and maintainable digital products designed for long-term growth and success. <br><br>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/joseph-situma-2876ab391) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=jo-oseeph&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=jo-oseeph&theme=dark&hide_border=false)<br/>
@@ -13,6 +11,18 @@ Passionate about solving real-world problems, I turn ideas into reliable, scalab
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jo-oseeph&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,react,css,express,github,html,js,mongodb,mysql,nextjs,nodejs,postman,redux,tailwind,vscode&amp;perline=14">
+  </a>
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -22,5 +32,6 @@ Passionate about solving real-world problems, I turn ideas into reliable, scalab
 
 ---
 [![](https://komarev.com/ghpvc/?username=jo-oseeph&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
