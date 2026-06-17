@@ -28,7 +28,7 @@ Passionate about solving real-world problems, I turn ideas into reliable, scalab
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,css,express,github,html,js,mongodb,mysql,nextjs,nodejs,react native,postman,redux,tailwind,vscode&amp;perline=14">
+    <img src="https://skillicons.dev/icons?i=git,react,css,express,github,html,js,mongodb,mysql,nextjs,nodejs,postman,redux,tailwind,&amp;perline=14">
   </a>
 </p>
 
