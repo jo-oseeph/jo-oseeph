@@ -17,6 +17,7 @@ Passionate about solving real-world problems, I turn ideas into reliable, scalab
 ![](https://streak-stats.demolab.com/?user=jo-oseeph&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jo-oseeph&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jo-oseeph&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--h1 without bottom border-->
